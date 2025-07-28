@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/newcalc/ExampleInstrumentedTest.kt;D:/Android/NewCalc/app/src/main/java/com/example/newcalc/MainActivity.kt;D:/Android/NewCalc/app/src/test/java/com/example/newcalc/ExampleUnitTest.kt;D:/Android/NewCalc/app/build.gradle.kts;D:/Android/NewCalc/build.gradle.kts;D:/Android/NewCalc/settings.gradle.kts" />
+  </component>
+</project>

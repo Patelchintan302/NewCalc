@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="btnStyle" >
+        <!-- This line links the STYLE to the DRAWABLE -->
+        <item name="android:background">@drawable/btn_style1</item>
+
+
+        <item name="android:textSize">24dp</item>
+        <item name="android:padding">8dp</item> <!-- Note: padding can be in the drawable or the style -->
+
+        <!-- Layout attributes (often better set in the layout XML unless truly global) -->
+
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_gravity">fill</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+
+        <item name="android:backgroundTint">@null</item> <!-- Disable tinting if using Material theme -->
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="backgroundTint">@null</item>
+        <item name="rippleColor">#33FFFFFF</item>
+        <item name="cornerRadius">24dp</item>
+    </style>
+</resources>

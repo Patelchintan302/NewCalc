@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?android:attr/colorControlHighlight"> <!-- Use theme attribute for ripple color -->
+<!--    android:color="#B6607A90">-->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="24dp"/>
+            <stroke android:width="5dp" android:color="#E65100"/> <!-- Optional: Add a subtle border -->
+            <!-- Add padding for better touch target and appearance -->
+            <solid android:color="#000000"/>
+        </shape>
+    </item>
+
+
+</ripple>
